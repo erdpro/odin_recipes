@@ -1,0 +1,16 @@
+* {
+    font-family: Georgia, Arial, serif;
+}
+
+body {
+    background-color: rgb(2, 156, 194);
+    width: auto;
+}
+
+#description {
+    color: blueviolet;
+}
+
+#ingredients {
+    color: green;
+}
