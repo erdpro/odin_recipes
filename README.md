@@ -11,3 +11,4 @@ Features include:
 - Writing HTML boilerplate
 - Using headings, lists, images and referencing files in the project directory
 - Using Git
+- Using CSS styling
