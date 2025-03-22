@@ -1,10 +1,44 @@
 * {
-    font-family: Georgia, Arial, serif;
+    font-family: Verdana, Arial, serif;
 }
 
 body {
-    background-color: rgb(2, 156, 194);
+    background-color: rgb(77, 210, 243);
     width: auto;
+}
+
+.mainbox {
+    background-color: rgb(255, 229, 157);
+    width: 600px;
+    margin: 0 auto;
+    padding: 8px;
+}
+
+h1 {
+    color: darkgreen;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+h2 {
+    margin-bottom: 2px;
+}
+
+p {
+    margin: 0px;
+}
+
+.firstp {
+    margin-top: 16px;
+}
+
+ul, ol {
+    margin-top: 2px;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
 }
 
 #description {
