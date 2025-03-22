@@ -12,3 +12,4 @@ Features include:
 - Using headings, lists, images and referencing files in the project directory
 - Using Git
 - Using CSS styling
+- Using box model including using divs, margins and padding to create a good look
